@@ -19,7 +19,7 @@ git clone https://github.com/yourusername/iris-classifier.git
 Step-2: cd iris-classifier
 
 Step-3: Install reqiured packages
-pip install -r requirements.txt
+----pip install -r requirements.txt
 
 step-4: Run the project
-Python main.py
+---Python main.py
